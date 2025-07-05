@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week02ForPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a66aa48ff3f94140958c21ef53281f146821f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f57ff9e5db64c76d838decc308df5dacb1320eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week02ForPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week02ForPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
