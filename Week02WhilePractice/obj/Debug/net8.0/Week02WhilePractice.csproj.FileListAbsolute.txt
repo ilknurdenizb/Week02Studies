@@ -1,0 +1,14 @@
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\bin\Debug\net8.0\Week02WhilePractice.exe
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\bin\Debug\net8.0\Week02WhilePractice.deps.json
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\bin\Debug\net8.0\Week02WhilePractice.runtimeconfig.json
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\bin\Debug\net8.0\Week02WhilePractice.dll
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\bin\Debug\net8.0\Week02WhilePractice.pdb
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.dll
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\refint\Week02WhilePractice.dll
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.pdb
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\Week02WhilePractice.genruntimeconfig.cache
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhilePractice\obj\Debug\net8.0\ref\Week02WhilePractice.dll
