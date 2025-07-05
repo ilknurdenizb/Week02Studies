@@ -22,4 +22,5 @@ do
 
 //The Main Difference
 //When we tried to use user input as -5 for limit, the do-while loop still executed once, while the while loop did not execute at all.
-//That is the main difference between while and do-while loops. The while loop checks the condition before executing the block, while the do-while loop executes the block at least once before checking the condition.
+//That is the main difference between while and do-while loops. The while loop checks the condition before executing the block, while the do-while loop executes the block at least once before checking the condition. 
+Console.WriteLine("değişim");
