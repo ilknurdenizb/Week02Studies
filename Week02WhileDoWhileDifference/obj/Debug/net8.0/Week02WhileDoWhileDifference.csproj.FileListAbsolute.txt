@@ -1,0 +1,14 @@
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.AssemblyInfoInputs.cache
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.AssemblyInfo.cs
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\bin\Debug\net8.0\Week02WhileDoWhileDifference.exe
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\bin\Debug\net8.0\Week02WhileDoWhileDifference.deps.json
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\bin\Debug\net8.0\Week02WhileDoWhileDifference.runtimeconfig.json
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\bin\Debug\net8.0\Week02WhileDoWhileDifference.dll
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\bin\Debug\net8.0\Week02WhileDoWhileDifference.pdb
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.dll
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\refint\Week02WhileDoWhileDifference.dll
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.pdb
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\Week02WhileDoWhileDifference.genruntimeconfig.cache
+C:\Users\Deniz\source\repos\Week02Studies\Week02WhileDoWhileDifference\obj\Debug\net8.0\ref\Week02WhileDoWhileDifference.dll
